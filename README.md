@@ -3,18 +3,18 @@
 ### Education
 Cape Breton University	   Sydney, Canada
 Post-Baccalaureate Diploma in Business Analytics	Apr 2025
-•	GPA: 3.64/4.00
-•	Awards: Dean’s Honour List (2023, 2024)
-Relevant coursework: Database Concepts (A), Statistics for Business Analytics (A), Business Analytics Fundamental (A+), Data Visualization (A), Quantitative Methods (A+), Predictive Modeling (A), Data Mining (A).   
+- GPA: 3.64/4.00
+--   Awards: Dean’s Honour List (2023, 2024)
+-- Relevant coursework: Database Concepts (A), Statistics for Business Analytics (A), Business Analytics Fundamental (A+), Data Visualization (A), Quantitative Methods (A+), Predictive Modeling (A), Data Mining (A).   
 
 
 ### Work Experience
 Lychee JSC (Leading Japanese Cosmetics Company)	Oita, Japan
 Data Analytics Team Leader	Mar 2019 – Feb 2023
-•	Spearheaded cross-functional data initiatives, orchestrating collaboration between marketing, sales, and IT teams, processing 75K+ customer records monthly to improve segmentation accuracy.
-•	Engineered Python-based automation scripts to consolidate sales and social media data, providing real-time performance tracking that drove a 20% increase in customer engagement.
-•	Designed and launched interactive Power BI dashboards integrating CRM and e-commerce data, influencing $1.8M marketing budget reallocation based on customer segment performance.
-•	Performed SQL-based competitor analysis and market trend modeling, driving $3.4M in new product revenue through data-backed launch strategies.
+- Spearheaded cross-functional data initiatives, orchestrating collaboration between marketing, sales, and IT teams, processing 75K+ customer records monthly to improve segmentation accuracy.
+- Engineered Python-based automation scripts to consolidate sales and social media data, providing real-time performance tracking that drove a 20% increase in customer engagement.
+- Designed and launched interactive Power BI dashboards integrating CRM and e-commerce data, influencing $1.8M marketing budget reallocation based on customer segment performance.
+- Performed SQL-based competitor analysis and market trend modeling, driving $3.4M in new product revenue through data-backed launch strategies.
 
 Base Inc (Vietnam #1 Enterprise Platform)	Hanoi, Vietnam
 Data Analyst	Nov 2017 – Feb 2019

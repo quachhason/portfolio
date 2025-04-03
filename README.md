@@ -1,5 +1,3 @@
-# Data Analyst / Scientist
-
 ## Education
 
 **Cape Breton University** | Sydney, Canada

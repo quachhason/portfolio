@@ -12,17 +12,18 @@ Post-Baccalaureate Diploma in Business Analytics | Apr 2025
 **Lychee JSC (Leading Japanese Cosmetics Company)** | Oita, Japan
 
 Data Analytics Team Leader | Mar 2019 – Feb 2023
-*   Spearheaded cross-functional data initiatives, orchestrating collaboration between marketing, sales, and IT teams, processing 75K+ customer records monthly to improve segmentation accuracy.
-*   Engineered Python-based automation scripts to consolidate sales and social media data, providing real-time performance tracking that drove a 20% increase in customer engagement.
-*   Designed and launched interactive Power BI dashboards integrating CRM and e-commerce data, influencing $1.8M marketing budget reallocation based on customer segment performance.
-*   Performed SQL-based competitor analysis and market trend modeling, driving $3.4M in new product revenue through data-backed launch strategies.
+*   Spearheaded data-driven international marketing campaigns for flagship products (82x Collagen, Koharu), directly contributing to annual revenue growth from $43K in 2019 to $300K in 2021 across 5+ countries (B2B & B2C).
+*   Engineered automated CRM tracking scripts based on customer interactions and sales history, improving conversion rates by ~18% through more personalized follow-ups and retargeting strategies.
+*   Designed and launched interactive Power BI dashboards integrating CRM and e-commerce data, optimizing $100K marketing budget reallocation, leveraging data-driven insights to maximize ROI and boost repeat purchase rate by 40%.
+*   Performed SQL-driven market trend models and cohort analyses for major promotional events (e.g., Valentine’s, Black Friday), leading to 2.5x revenue spikes on peak sales days and 20% higher retention in key customer segments.
 
 **Base Inc (Vietnam #1 Enterprise Platform)** | Hanoi, Vietnam
 
 Data Analyst | Nov 2017 – Feb 2019
-*   Analyzed traffic and user behavior patterns through Google Analytics, SQL queries, and Excel cohort models, guiding optimization of 120K+ monthly platform interactions.
-*   Facilitated 45+ cross-functional data workshops, establishing standardized KPI definitions across eight departments and cultivating a data-driven culture that resulted in 30% faster feature adoption.
-*   Implemented Power BI reporting automation that eliminated 22 manual weekly reports and reduced data processing time from 48 to 14 hours.
+*   Analyzed user behavior and platform traffic (120K+ monthly interactions) using Google Analytics, SQL, and Excel cohort models, uncovering insights that drove UX and feature optimizations.
+*   Facilitated 45+ cross-functional data workshops, standardizing KPI definitions across eight departments, fostering a data-driven culture that accelerated feature adoption by 30%.
+*   Implemented Power BI dashboards for real-time tracking of customer engagement, sales pipeline, and product usage, eliminating 22 manual reports weekly and reducing data processing time by 70% (48 → 14 hours).
+*   Built SQL-based churn prediction models to flag high-risk enterprise customers, enabling the Customer Success team to implement proactive outreach strategies, reducing churn by 12% within six months.
 
 ## Academic / Personal Projects
 
